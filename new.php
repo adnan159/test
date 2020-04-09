@@ -6,8 +6,6 @@ $b=20;
 
 echo $c = $a+$b;
 
-echo $c = $a+$b;
-
 should result 30;
 
 ?>
